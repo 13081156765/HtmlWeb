@@ -1,0 +1,70 @@
+.head{
+	width: 450px;
+	height: 350px;
+	border: 2px solid;
+	border-radius: 25px;
+	position: absolute;
+	left: 200px;
+	color: blue;
+	}
+.title{
+	margin-top: 40px;
+	font-size: 20px;
+	position: absolute;
+	left: 100px;
+	top: 60px;
+	letter-spacing: 4px;
+	line-height: 200%;
+	color: blue;
+}
+.none{
+	width: 20px;
+	height: 200px;
+	position: absolute;
+	left: -10px;
+	top: 85px;
+    background-color: white;
+}
+.circle{
+	width: 120px;
+	height: 120px;
+	border: 3px solid;
+	border-radius: 50%;
+	position: absolute;
+	left: -63px;
+	top: 120px;
+    color: blue;
+}
+.none2{
+	width: 100px;
+	height: 20px;
+	position: absolute;
+	left: 420px;
+	top: 348px;
+    background-color: white;
+}
+.circle2{
+	width: 27px;
+	height: 27px;
+	border: 2px solid;
+	border-radius: 50%;
+	position: absolute;
+	left: 433px;
+	top: 333px;
+	color: blue;
+	background-color: white;
+}
+b{
+	font-size: 35px;
+	position: absolute;
+	top: -20px;
+	color: blue;
+}
+p{
+	font-size: 50px;
+	position: absolute;
+	left: -20px;
+	top: 95px;
+	color: blue;
+}
+
