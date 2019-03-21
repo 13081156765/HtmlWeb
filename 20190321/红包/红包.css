@@ -1,0 +1,59 @@
+#father{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+}
+.packet{
+	width: 300px;
+	height: 500px;
+	background-color: #b71c1c;
+	position: relative;
+    overflow: hidden;
+}
+.red{
+	width: 700px;
+	height: 350px;
+	border-radius: 0px 0px 350px 350px;
+	background-color: #c62828;
+	position: absolute;
+	margin-left: -200px;
+}
+.hongbao{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: 300px;
+	background-color: orange;
+	color: black;
+}
+img{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	position: absolute;
+}
+.pic{
+	position: absolute;
+	margin-left: -35px;
+	margin-top: 60px;
+}
+.wenzi1{
+	position: absolute;
+	margin-top: 150px;
+	font-size: 20px;
+	color: white;
+}
+.wenzi2{
+	position: absolute;
+	margin-top: 230px;
+	font-size: 23px;
+	color: white;
+}
+.wenzi3{
+	position: absolute;
+	margin-top: 330px;
+	font-size: 23px;
+	color: white;
+}

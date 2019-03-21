@@ -1,0 +1,25 @@
+#circle{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	background-color: black;
+	position: relative;
+	-webkit-animation:circle infinite linear;
+	-webkit-animation-duration:20s; 
+}
+img{
+	width: 220px;
+	height: 150px;
+	margin-left: 38px;
+	margin-top: 80px;
+	position: absolute;
+}
+@-webkit-keyframes circle
+{
+	from {
+		transform:rotate(0deg);
+		}
+	to {
+		transform:rotate(360deg);
+		}
+}
