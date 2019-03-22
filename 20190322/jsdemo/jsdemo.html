@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>js</title>
+		<style>
+			#squ{
+				width: 200px;
+				height: 200px;
+				background-color: green;
+				display: none;
+			}
+		</style>
+		<script type="text/javascript" src="../js/jquery.js"></script>
+	</head>
+	<body>
+        <img src="../img/加号.svg" id="img1"/>
+        <div id="squ"></div>
+	</body>
+	<script type="text/javascript">
+		$(function(){
+			$("#img1").click(function(){
+				$("#squ").toggle(100);
+			})
+		})
+		
+	</script>
+</html>
