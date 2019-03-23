@@ -1,0 +1,179 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#first{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: 2px solid black;
+	background-color: dodgerblue;
+	position: relative;
+	margin-left: 35%;
+	margin-top: 10px;
+}
+.second{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	border: 1px solid black;
+    background-color: white;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.third{
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	border: 1px solid black;
+	background-color: red;
+	position: absolute;
+	margin-left: 128px;
+	margin-top: 80px;
+}
+.one{
+	width: 45px;
+	height: 60px;
+	border-radius: 50%;
+	border: 1px solid black;
+    background-color: white;
+    position: absolute;
+    margin-left: -29px;
+    margin-top: -55px;
+}
+.two{	
+	width: 25px;
+	height: 37px;
+	border-radius: 50%;
+	border: 1px solid black;
+    background-color: brown;
+    position: absolute;
+    margin-left: -12px;
+    margin-top: -40px;
+}
+.three{	
+	width: 15px;
+	height: 18px;
+	border-radius: 50%;
+	border: 1px solid black;
+    background-color: white;
+    position: absolute;
+    margin-left: -5px;
+    margin-top: -25px;
+}
+.four{
+	width: 45px;
+	height: 60px;
+	border-radius: 50%;
+	border: 1px solid black;
+    background-color: white;
+    position: absolute;
+    margin-left: 17px;
+    margin-top: -55px;
+}
+.five{	
+	width: 25px;
+	height: 37px;
+	border-radius: 50%;
+	border: 1px solid black;
+    background-color: brown;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: -40px;
+}
+.six{	
+	width: 15px;
+	height: 18px;
+	border-radius: 50%;
+	border: 1px solid black;
+    background-color: white;
+    position: absolute;
+    margin-left: 23px;
+    margin-top: -25px;
+}
+.seven{
+	width: 1px;
+	height: 60px;
+	border: 1px solid black;
+	background-color: black;
+	position: absolute;
+	margin-left: 16px;
+	margin-top: 35px;
+}
+.eight{
+	width: 100px;
+	height: 50px;
+	border: 2px solid black;
+	border-radius: 0px 0px 40px 40px;
+	background-color: red;
+	position: absolute;
+	margin-left: -32px;
+	margin-top: 90px;
+}
+.mustache1{
+	width: 80px;
+	height: 1px;
+	border: 1px solid black;
+	background-color: black;
+	position: absolute;
+	margin-left: -100px;
+	margin-top: 55px;
+}
+.mustache2{
+	width: 80px;
+	height: 1px;
+	border: 1px solid black;
+	background-color: black;
+	position: absolute;
+	margin-left: 63px;
+	margin-top: 55px;
+}
+.mustache3{
+	width: 80px;
+	height: 1px;
+	border: 1px solid black;
+	background-color: black;
+	position: absolute;
+	margin-left: -95px;
+	margin-top: 15px;
+	transform: rotate(30deg);
+}
+.mustache4{
+	width: 80px;
+	height: 1px;
+	border: 1px solid black;
+	background-color: black;
+	position: absolute;
+	margin-left: 58px;
+	margin-top: 95px;
+	transform: rotate(30deg);
+}
+.mustache5{
+	width: 80px;
+	height: 1px;
+	border: 1px solid black;
+	background-color: black;
+	position: absolute;
+	margin-left: -95px;
+	margin-top: 95px;
+	transform: rotate(-30deg);
+}
+.mustache6{
+	width: 80px;
+	height: 1px;
+	border: 1px solid black;
+	background-color: black;
+	position: absolute;
+	margin-left: 58px;
+	margin-top: 15px;
+	transform: rotate(-30deg);
+}
+.fourth{
+    width: 200px;
+    height: 100px;
+    border-radius: 100px 100px 0px 0px;
+    background-color: dodgerblue;
+}
+
+
