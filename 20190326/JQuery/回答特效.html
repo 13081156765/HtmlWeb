@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>回答特效</title>
+		<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="回答特效.css" />
+	</head>
+	<body>
+		<button id="top"><h1>什么是JQuery?</h1></button>
+			<p class="down">解答：</p>
+			<p class="down">JQuery是一个JavaScript库。</p>
+			<p class="down">JQuery极大简化了JavaScript编程。</p>
+			<p class="down">JQuery很容易学习。</p>
+		
+		<script>
+			$(function(){
+				$(".down").css("display","none");
+				$("#top").click(function(){
+                    $(".down").css("display","block")
+				});
+			})
+		</script>
+	</body>
+</html>
