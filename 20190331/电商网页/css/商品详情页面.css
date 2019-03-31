@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#rise{
+	width: 100%;
+	height: 10%;
+	position: fixed;
+	display: flex;
+	background-color: honeydew;
+
+}
+
+.rise1 p{
+	width: 70%;
+	height: 10%;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-left: 110px;
+    position: absolute;
+	display: inline-block;
+	color: #616161;
+}
+#main{
+	width: 100%;
+    height: 70%;
+	overflow: scroll;
+
+	padding-top: 65px;
+}
+.chinese{
+	text-align: center;
+	font-size: 23px;
+}
+.introduce{
+	width: 95%;
+	font-size: 15px;
+	padding-left: 10px;
+}
+.ol{
+	font-size: 17px;
+}
+li:hover{
+	background-color: #fa2f2f;
+	color: white;
+	cursor: pointer;
+}
+.ol:focus li{
+	background-color: #F57C00;
+}
+.shop{
+	padding-left: 5%;
+}
+.shop input{
+	width: 90%;
+	height: 40px;
+	background-color: orange;
+	color: white;
+}
